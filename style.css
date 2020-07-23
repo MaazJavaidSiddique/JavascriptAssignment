@@ -1,0 +1,103 @@
+/* (Chapter49-52.js Question: 1) */
+/* 
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 85vh;
+    width: 100vw;
+}
+.content{ 
+    margin-left: -40px;
+    color: rgb(179, 172, 172);
+}
+.content input{
+    height: 30px ;
+    width: 300px;
+    border: none;
+    border-bottom: 1px solid  rgb(179, 172, 172);
+}
+.content .lastText{
+    text-align: center;
+    color: black;
+}
+.content .lastText a{
+   text-decoration: none;
+   color: rgb(178, 130, 199);
+}
+.content .text{
+    margin-bottom: -1px;
+}
+.signup{
+    border: 1px solid rgb(178, 130, 199) ;
+   padding: 15px 70px 40px 80px ;
+   border-radius: 55px;
+   
+}
+.signup .heading{
+    color: rgb(178, 130, 199);
+  
+}
+
+.heading{
+    text-align: center;
+}
+ button{
+    background-color: rgb(178, 130, 199);
+    border-style: none;
+    margin-top: 30px;
+    height: 30px;
+    width: 310px;
+ }
+ */
+
+
+
+
+
+
+ /* (Chapter49-52.js Question: 3) */
+/* .content input{
+    height: 30px ;
+    width: 300px;
+   
+}
+button{
+    width: 90px;
+    height: 30px;
+    margin-top: 20px;
+    border-style: none;
+} 
+.side{
+    float: right;
+} */
+
+
+
+
+
+/*(Chapter52-57.js Question: 1)*/
+ /* .format img{
+
+    width: 250px;
+    height: 230px;
+
+} */
+
+/*(Chapter52-57.js)*/
+/* #myLight{
+    height: 400px;
+    width: 400px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
